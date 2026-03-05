@@ -16,7 +16,7 @@ INSERT INTO students (student_id, full_name, username, email, project_name, shif
 
 -- ข้อมูลจำลองอื่นๆ เพื่อความสวยงาม
 INSERT INTO students (student_id, full_name, username, email, project_name, shift_status) VALUES 
-('1640700001', 'Somsak Rakdee', 'somsak.r', 'somsak.r@example.com', 'Database Design', 'Afternoon Shift'),
+('1660702653', 'phanoo ngmachaliaw', 'phanoongam', 'phanoo.ngam@bumail.net', 'Database Design', 'Afternoon Shift'),
 ('1640700002', 'Wichai Meesuk', 'wichai.m', 'wichai.m@example.com', 'Network Security', 'Night Shift'),
 ('1640700003', 'Wichai Chaipon', 'wichai.c', 'wichai.c@example.com', 'System Security', 'Evening Shift'),
 ('1640700004', 'Jane Watson', 'jane.w', 'jane.w@example.com', 'Cloud Computing', 'Rejected');
